@@ -1,0 +1,16 @@
+{
+  "name": "jsonclean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generic-json-sanitizer": "^1.1.4",
+    "sanitize-html": "^2.13.1"
+  }
+}
