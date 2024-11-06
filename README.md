@@ -1,5 +1,3 @@
-Here's a README for the code provided:
-
 ---
 
 # JSON Sanitizer with `sanitize-html`
